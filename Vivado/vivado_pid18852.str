@@ -1,0 +1,266 @@
+/*
+
+Xilinx Vivado v2020.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3064766 on Wed Nov 18 09:12:45 MST 2020
+IP Build: 3064653 on Wed Nov 18 14:17:31 MST 2020
+
+Process ID (PID): 18852
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Sun Aug 21 17:38:18 ICT 2022
+Time zone: 	Indochina Time (Asia/Bangkok)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+Scale size: 19
+
+Java version: 	11.0.2 64-bit
+Java home: 	D:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2
+Java executable location: 	D:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	ADMIN
+User home directory: C:/Users/ADMIN
+User working directory: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: D:/Xilinx/Vivado
+HDI_APPROOT: D:/Xilinx/Vivado/2020.2
+RDI_DATADIR: D:/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: D:/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/2020.2/
+Vivado layouts directory: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	D:/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/vivado.log
+Vivado journal file location: 	C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/vivado.jou
+Engine tmp dir: 	C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-18852-ThanhBo
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: D:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: D:/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: D:/Xilinx/Vivado/2020.2
+XILINX_VIVADO: D:/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: D:/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	134 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,079 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// HMemoryUtils.trashcanNow. Engine heap size: 1,079 MB. GUI used memory: 63 MB. Current time: 8/21/22, 5:38:19 PM ICT
+// WARNING: HEventQueue.dispatchEvent() is taking  1011 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1005 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1008 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1005 ms.
+selectButton(PAResourceEtoH.GettingStartedView_OPEN_PROJECT, "Open Project"); // y
+// Run Command: PAResourceCommand.PACommandNames_OPEN_PROJECT
+selectComboBox(RDIResource.HJFileChooserRecentListPreview_RECENT_DIRECTORIES, "C:/Users/ADMIN/Downloads", 2); // aj
+setFileChooser("C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom/custom.xpr");
+// Opening Vivado Project: C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom/custom.xpr. Version: Vivado v2020.2 
+// bz (cr):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 102 MB (+104480kb) [00:01:12]
+// [Engine Memory]: 1,079 MB (+980023kb) [00:01:12]
+// WARNING: HEventQueue.dispatchEvent() is taking  6736 ms.
+// Tcl Message: open_project C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom/custom.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from '/home/tindz/custom' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2020.2/data/ip'. 
+// Project name: custom; location: C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom; part: xczu9eg-ffvb1156-2-e
+// 'i' command handler elapsed time: 27 seconds
+// Tcl Message: open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:12 . Memory (MB): peak = 1209.992 ; gain = 0.000 
+// Elapsed time: 12 seconds
+dismissDialog("Open Project"); // bz
+// [GUI Memory]: 108 MB (+745kb) [00:01:18]
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 123 MB (+10718kb) [00:01:28]
+// [GUI Memory]: 145 MB (+16571kb) [00:01:29]
+// Elapsed time: 17 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, IP Integrator, Open Block Design]", 7, false); // u
+// Run Command: PAResourceCommand.PACommandNames_OPEN_BLOCK_DESIGN
+// bz (cr):  Open Block Design : addNotify
+// Tcl Message: open_bd_design {C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom/custom.srcs/sources_1/bd/design_1/design_1.bd} 
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_SCRIPT_TASK
+// Tcl Message: Reading block design file <C:/Users/ADMIN/Downloads/nhung_xsa-main/nhung_xsa-main/custom/custom.srcs/sources_1/bd/design_1/design_1.bd>... 
+// TclEventType: RSB_CHANGE_CURRENT_DIAGRAM
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: RSB_LOCK_CHANGE
+// TclEventType: RSB_SCRIPT_TASK
+// TclEventType: RSB_OPEN_DIAGRAM
+// WARNING: HEventQueue.dispatchEvent() is taking  1447 ms.
+// Elapsed time: 10 seconds
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// Tcl Message: open_bd_design: Time (s): cpu = 00:00:09 ; elapsed = 00:00:08 . Memory (MB): peak = 1209.992 ; gain = 0.000 
+// 'bF' command handler elapsed time: 10 seconds
+dismissDialog("Open Block Design"); // bz
+selectTab((HResource) null, (HResource) null, "Sources", 0); // aK
+// [GUI Memory]: 153 MB (+717kb) [00:01:53]
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, IP Integrator, Generate Block Design]", 8, false); // u
+// Run Command: PAResourceCommand.PACommandNames_GENERATE_RSB_DESIGN
+// aI (cr): Generate Output Products: addNotify
+// 'br' command handler elapsed time: 3 seconds
+dismissDialog("Generate Output Products"); // aI
+// Tcl Command: 'rdi::info_commands {w*}'
+// Tcl Command: 'rdi::info_commands {write_*}'
+// Tcl Command: 'rdi::info_commands {write_che*}'
+// Tcl Command: 'rdi::info_commands {write_ch*}'
+// Tcl Command: 'rdi::info_commands {write_c*}'
+// Tcl Command: 'rdi::info_commands {write_*}'
+// Tcl Command: 'rdi::info_commands {write_h*}'
+// Elapsed time: 12 seconds
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "write_h", true); // l
+// Tcl Command: 'rdi::match_options {write_hw_platform} {}'
+// Tcl Command: 'rdi::match_options {write_hw_platform} {f}'
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "write_hw_platform -f", true); // l
+// Tcl Command: 'rdi::match_options {write_hw_platform} {}'
+// Tcl Command: 'rdi::match_options {write_hw_platform} {f}'
+// Tcl Command: 'rdi::match_options {write_hw_platform} {fi}'
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "write_hw_platform -force -file zcu"); // l
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Platform Setup", 3); // m
+// Elapsed time: 10 seconds
+setText("Name:", "zcu102", true); // aa
+// Tcl Command: 'set_property pfm_name {xilinx:zcu102:zcu102:0.0} [get_files -all {design_1.bd}]'
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Command: 'set_property platform.name {zcu102} [current_project]'
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// Tcl Message: set_property pfm_name {xilinx:zcu102:zcu102:0.0} [get_files -all {design_1.bd}] 
+// Tcl Message: set_property platform.name {zcu102} [current_project] 
+// Tcl Command: 'set_property pfm_name {xilinx:zcu102:design_1:0.0} [get_files -all {design_1.bd}]'
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Command: 'set_property platform.name {design_1} [current_project]'
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// Tcl Message: set_property pfm_name {xilinx:zcu102:design_1:0.0} [get_files -all {design_1.bd}] 
+// Tcl Message: set_property platform.name {design_1} [current_project] 
+// Elapsed time: 12 seconds
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "write_hw_platform -force -file zcu102.xsa", true); // l
+// Tcl Command: 'write_hw_platform -force -file zcu102.xsa'
+// Tcl Command: 'write_hw_platform -force -file zcu102.xsa'
+// Tcl Message: write_hw_platform -force -file zcu102.xsa 
+// Tcl Message: INFO: [Vivado 12-4895] Creating Hardware Platform: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/zcu102.xsa ... 
+// bz (cr):  Tcl Command Line : addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 1,135 MB. GUI used memory: 94 MB. Current time: 8/21/22, 5:40:59 PM ICT
+// Tcl Message: INFO: [Hsi 55-2053] elapsed time for repository (D:/Xilinx/Vivado/2020.2/data\embeddedsw) loading 0 seconds 
+// Tcl Message: INFO: [Project 1-1042] Successfully generated hpfm file 
+// TclEventType: MSGMGR_REFRESH_MSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 1,135 MB (+2495kb) [00:02:59]
+// TclEventType: PROJECT_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: MSGMGR_REFRESH_MSG
+// HMemoryUtils.trashcanNow. Engine heap size: 1,162 MB. GUI used memory: 94 MB. Current time: 8/21/22, 5:41:14 PM ICT
+// Tcl Message: INFO: [Vivado 12-12469] The Hardware Platform can be used for Hardware and Hardware Emulation INFO: [Vivado 12-4896] Successfully created Hardware Platform: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/zcu102.xsa 
+// Tcl Message: write_hw_platform: Time (s): cpu = 00:00:17 ; elapsed = 00:00:22 . Memory (MB): peak = 1209.992 ; gain = 0.000 
+// Tcl Message: C:/Users/ADMIN/AppData/Roaming/Xilinx/Vivado/zcu102.xsa 
+// Elapsed time: 22 seconds
+dismissDialog("Tcl Command Line"); // bz
+// Tcl Command: 'rdi::info_commands {v*}'
+// Tcl Command: 'rdi::info_commands {va*}'
+// Tcl Command: 'rdi::info_commands {vad*}'
+// Tcl Command: 'rdi::info_commands {vadi*}'
+// Tcl Command: 'rdi::info_commands {va*}'
+// Tcl Command: 'rdi::info_commands {val*}'
+// Tcl Command: 'rdi::info_commands {vali*}'
+// Elapsed time: 104 seconds
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "vali", true); // l
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {z}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {zcu}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {zcu102}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {zcu102.}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {zcu102.x}'
+// Tcl Command: 'rdi::info_commands bd::match_path'
+// Tcl Command: 'bd::match_path {validate_hw_platform} {./} {zcu102.xsa}'
+// Elapsed time: 10 seconds
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "validate_hw_platform ./zcu102.xsa", true); // l
+// Tcl Command: 'validate_hw_platform ./zcu102.xsa'
+// Tcl Command: 'validate_hw_platform ./zcu102.xsa'
+// Tcl Message: validate_hw_platform ./zcu102.xsa 
+// Tcl Message: INFO: [Vivado 12-12082] Found metadata file: xsa.json INFO: [Vivado 12-6078] Validating platform properties... INFO: [Vivado 12-6079] Validating unified platform... INFO: [Vivado 12-6073] Validating 'pre_synth' platform state... INFO: [Vivado 12-6077] Validating platform files... INFO: [Vivado 12-6066] Finished running validate_hw_platform for file: './zcu102.xsa' 
+// Elapsed time: 132 seconds
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 961, 13); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 952, 38); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 591, 15); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 647, 68); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 604, 12); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 604, 12, false, false, false, false, true); // dS - Double Click
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 634, 33); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 561, 29); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 573, 32); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 569, 32); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 569, 32, false, false, false, false, true); // dS - Double Click
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 1059, 40); // dS
+typeControlKey(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, "RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR", 'c'); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 1017, 28); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 961, 30); // dS
+typeControlKey(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, "RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR", 'c'); // dS
